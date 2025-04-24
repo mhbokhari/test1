@@ -1,3 +1,0 @@
-# .streamlit/secrets.toml
-OPENAI_API_KEY="sk-proj-xxxxxxxxxxxxxxxxxxxxx"
-# HUGGINGFACEHUB_API_TOKEN="hf_xxxxxxxxxxxxxxxxxxxxx" # If needed
