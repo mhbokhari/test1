@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+langchain
+langchain-openai # Or langchain-community, huggingface_hub if using those
+langchain-community # Often needed for FAISS, embeddings, loaders
+faiss-cpu # Or faiss-gpu if your deployment supports it
+sentence-transformers
+huggingface_hub # If using HF models
+openai
+tiktoken
+pypdf
+pdf2image
+Pillow # pdf2image dependency
+pytesseract
+# Add any other specific libraries you installed
